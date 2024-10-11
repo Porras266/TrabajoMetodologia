@@ -1,0 +1,5 @@
+﻿Build started at 22:08...
+1>------ Build started: Project: Trabajo de metodologia, Configuration: Debug Any CPU ------
+1>  Trabajo de metodologia -> C:\Users\andre\source\repos\Trabajo de metodologia\Trabajo de metodologia\bin\Debug\Trabajo de metodologia.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 22:08 and took 01.276 seconds ==========
